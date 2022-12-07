@@ -4,6 +4,13 @@
 
 ![Alt text](images/code.png)
 
+
+# 🧠 BR(AI)NS 🧠
+
+```
+br(AI)ns 🧠🧠
+```
+
 ---
 ![Alt text](images/tello-2020-12-26_115410.jpeg)
 
