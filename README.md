@@ -11,6 +11,8 @@
 br(AI)ns 🧠🧠
 ```
 
+[![Link](https://img.youtube.com/vi/E6_CZUbi-CM/sddefault.jpg)](https://youtu.be/E6_CZUbi-CM])
+
 ---
 ![Alt text](images/tello-2020-12-26_115410.jpeg)
 
