@@ -11,7 +11,7 @@
 br(AI)ns 🧠🧠
 ```
 
-[![Link](https://img.youtube.com/vi/E6_CZUbi-CM/sddefault.jpg)](https://youtu.be/E6_CZUbi-CM])
+[![Link](https://img.youtube.com/vi/E6_CZUbi-CM/sddefault.jpg)](https://youtu.be/E6_CZUbi-CM)
 
 ---
 ![Alt text](mine/tello-2020-12-26_115410.jpeg)
@@ -40,24 +40,24 @@ br(AI)ns 🧠🧠
 ![Alt text](mine/FOTOIMPEX12.jpg)
 ![Alt text](mine/DALL·E 2022-11-21 22.12.26 - We are living in the future in the style of dall-e.png)
 ![Alt text](mine/german-power-socket.jpg)
-![Alt text](mine/stiftung_warentest_2017.svg)
+![Alt text](svg/stiftung_warentest_2017.svg)
 ![Alt text](mine/self-evolving-system.jpg)
 ![Alt text](mine/IMG_20181014_151604366.jpg)
 ![Alt text](mine/rsa.gif)
 ![Alt text](mine/DALL·E 2022-11-21 22.09.28 - 3 blockchain enthusiasts sitting by Berlin canal drinking craft beer in the year 2041 on a psychedelic background.png)
-![Alt text](mine/ISOMETRIC.svg)
-![Alt text](mine/cybernetic_networks.svg)
-![Alt text](mine/induced.(1).svg)
-![Alt text](mine/induced..svg)
+![Alt text](svg/ISOMETRIC.svg)
+![Alt text](svg/cybernetic_networks.svg)
+![Alt text](svg/induced_1.svg)
+![Alt text](svg/induced..svg)
 
 
 [side_plate.pdf](mine/side_plate.pdf)
-![Alt text](mine/BEENG_drawing.svg)
-![Alt text](mine/nanometer ant farms.svg)
-![Alt text](mine/Netzteilsticker.svg)
+![Alt text](svg/BEENG_drawing.svg)
+![Alt text](svg/nanometer ant farms.svg)
+![Alt text](svg/Netzteilsticker.svg)
 ![Alt text](mine/PANA6194.JPG)
 ![Alt text](mine/PANA6207.JPG)
-![Alt text](mine/Personality defines your personal reality..svg)
+![Alt text](svg/Personality defines your personal reality..svg)
 ![Alt text](mine/png.png)
 
 [mazzer_hopper_bellows.stl](mine/mazzer_hopper_bellows.stl)
