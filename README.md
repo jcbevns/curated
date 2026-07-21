@@ -2,7 +2,6 @@
 
 `# curated` intends to be a list of sites/songs/photos/content that ...
 
-![Alt text](mine/code.png)
 
 
 # 🧠 BR(AI)NS 🧠
@@ -14,7 +13,6 @@ br(AI)ns 🧠🧠
 [![Link](https://img.youtube.com/vi/E6_CZUbi-CM/sddefault.jpg)](https://youtu.be/E6_CZUbi-CM)
 
 ---
-![Alt text](mine/tello-2020-12-26_115410.jpeg)
 
 ```
   ____  _____ _____ _   _  ____                         _       ____  _____ _____ _   _  ____   _                              ____ _   _ _____ _____ ____  
@@ -26,42 +24,38 @@ br(AI)ns 🧠🧠
                                 
 ```
 
-
-![Alt text](mine/club_side.jpg)
-![Alt text](mine/dalle2_harry.png)
-![Alt text](mine/FOTOIMPEX13.jpg)
-![Alt text](mine/interrobang.png)
-
-![Alt text](mine/tello-2020-12-26_115323.jpeg)
-
-![Alt text](mine/FOTOIMPEX16.jpg)
-![Alt text](mine/Julia at -0.05728, 0.64964.jpeg)
-![Alt text](mine/pop.png)
-![Alt text](mine/FOTOIMPEX12.jpg)
-![Alt text](mine/DALL-E 2022-11-21 22.12.26 - We are living in the future in the style of dall-e.png)
-![Alt text](mine/german-power-socket.jpg)
-![Alt text](svg/stiftung_warentest_2017.svg)
-![Alt text](mine/self-evolving-system.jpg)
-![Alt text](mine/IMG_20181014_151604366.jpg)
-![Alt text](mine/rsa.gif)
-![Alt text](mine/DALL-E 2022-11-21 22.09.28 - 3 blockchain enthusiasts sitting by Berlin canal drinking craft beer in the year 2041 on a psychedelic background.png)
-![Alt text](svg/ISOMETRIC.svg)
-![Alt text](svg/cybernetic_networks.svg)
-![Alt text](svg/induced_1.svg)
-![Alt text](svg/induced..svg)
-
+<img src="mine/code.png" width="640">
+<img src="mine/tello-2020-12-26_115410.jpeg" width="640">
+<img src="mine/club_side.jpg" width="640">
+<img src="mine/dalle2_harry.png" width="640">
+<img src="mine/FOTOIMPEX13.jpg" width="640">
+<img src="mine/interrobang.png" width="640">
+<img src="mine/tello-2020-12-26_115323.jpeg" width="640">
+<img src="mine/FOTOIMPEX16.jpg" width="640">
+<img src="mine/Julia at -0.05728, 0.64964.jpeg" width="640">
+<img src="mine/pop.png" width="640">
+<img src="mine/FOTOIMPEX12.jpg" width="640">
+<img src="mine/DALL-E 2022-11-21 22.12.26 - We are living in the future in the style of dall-e.png" width="640">
+<img src="mine/german-power-socket.jpg" width="640">
+<img src="svg/stiftung_warentest_2017.svg" width="640">
+<img src="mine/self-evolving-system.jpg" width="640">
+<img src="mine/IMG_20181014_151604366.jpg" width="640">
+<img src="mine/rsa.gif" width="640">
+<img src="mine/DALL-E 2022-11-21 22.09.28 - 3 blockchain enthusiasts sitting by Berlin canal drinking craft beer in the year 2041 on a psychedelic background.png" width="640">
+<img src="svg/ISOMETRIC.svg" width="640">
+<img src="svg/cybernetic_networks.svg" width="640">
+<img src="svg/induced_1.svg" width="640">
+<img src="svg/induced..svg" width="640">
+<img src="svg/BEENG_drawing.svg" width="640">
+<img src="svg/nanometer ant farms.svg" width="640">
+<img src="svg/Netzteilsticker.svg" width="640">
+<img src="mine/PANA6194.JPG" width="640">
+<img src="mine/PANA6207.JPG" width="640">
+<img src="svg/Personality defines your personal reality..svg" width="640">
 
 [side_plate.pdf](mine/side_plate.pdf)
-![Alt text](svg/BEENG_drawing.svg)
-![Alt text](svg/nanometer ant farms.svg)
-![Alt text](svg/Netzteilsticker.svg)
-![Alt text](mine/PANA6194.JPG)
-![Alt text](mine/PANA6207.JPG)
-![Alt text](svg/Personality defines your personal reality..svg)
-
 [mazzer_hopper_bellows.stl](mine/mazzer_hopper_bellows.stl)
 [wavy_surface.stl](mine/wavy_surface.stl)
-
 
 # //TODO
 
